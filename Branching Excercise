@@ -1,0 +1,5 @@
+git checkout -b
+Fast forwards only work when there's no new commints on the original branch, while a new one is being worked on.
+git checkout
+git branch -D
+Conflicts happens when Git can not determine what file to choose, when many changes have been made to the same file. 
